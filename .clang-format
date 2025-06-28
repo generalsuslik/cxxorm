@@ -1,0 +1,17 @@
+# Common settings
+BasedOnStyle:  Google
+TabWidth:        4
+IndentWidth:     4
+UseTab:          Never
+ColumnLimit: 150
+
+---
+Language: Cpp
+
+AllowShortFunctionsOnASingleLine: None
+DisableFormat:   false
+Standard: c++20
+AccessModifierOffset: -3
+
+SortIncludes: false
+---
